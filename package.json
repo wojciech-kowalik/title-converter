@@ -1,0 +1,22 @@
+{
+  "name": "title-converter",
+  "version": "1.0.0",
+  "description": "Simple title converter",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">= 12.22.9"
+ },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojciech-kowalik/title-converter.git"
+  },
+  "author": "Wojciech Kowalik <kontakt@wojciech-kowalik.pl> (http://wojciech-kowalik.pl/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wojciech-kowalik/title-converter/issues"
+  },
+  "homepage": "https://github.com/wojciech-kowalik/title-converter#readme"
+}
